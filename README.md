@@ -15,5 +15,4 @@ Convolution is the same as correlation with a 180° rotated filter kernel.
 ![](https://github.com/OmranAB/Image-Processing-Cross-Correlation-and-Convolution/blob/main/assets/convolution.png)
 ## Testing
 ![](https://github.com/OmranAB/Image-Processing-Cross-Correlation-and-Convolution/blob/main/assets/convolution%20output.png)
-### Assumptions: Image and filter are 2D numpy arrays. You can assume that filter will always be smaller than image. You can
-### assume that the filter will be odd sized shape (e.g. shape=(3, 5)); this makes computing padding easier.
+### Assumptions: Image and filter are 2D numpy arrays. You can assume that filter will always be smaller than image. You can assume that the filter will be odd sized shape (e.g. shape=(3, 5)); this makes computing padding easier.
